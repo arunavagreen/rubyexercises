@@ -1,4 +1,4 @@
 # puts "Hello World!"
-name = "Arunava"
+# name = "Arunava"
 greeting = "Hello"
 puts greeting + ' ' + name
